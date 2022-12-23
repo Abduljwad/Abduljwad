@@ -693,6 +693,12 @@ h3.my-profession {
     .home .home-img {
         display: none;
     }
+    h3.hello {
+        font-size: 23px;
+    } 
+    h3.my-profession {
+        font-size: 27px;
+    }
 }
 @media (max-width: 767px) {
     .contact .contact-form .col-6,
